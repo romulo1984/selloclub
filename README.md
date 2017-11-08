@@ -1,5 +1,6 @@
 #  SelloClub
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
+![](https://build.mobile.azure.com/v0.1/apps/76edb82e-689a-4670-a647-d7bea1634b8e/branches/master/badge)
 
 * Standard compliant React Native App Utilizing [Ignite](https://github.com/infinitered/ignite)
 
